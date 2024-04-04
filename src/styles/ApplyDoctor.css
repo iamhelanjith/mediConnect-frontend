@@ -1,0 +1,27 @@
+.page-title {
+  font-size: 30px;
+  color: rgba(0, 0, 0, 0.833);
+  font-weight: bold;
+}
+
+.card title {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.627);
+}
+
+.ant-picker-input input{
+  border: none !important;
+}
+
+.ant-picker {
+  border-radius: 2px !important;
+  border: 1px solid rgba(128, 128, 128, 0.521) !important;
+  height: 40px !important; 
+}
+
+.ant-picker:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid gray !important;
+}
